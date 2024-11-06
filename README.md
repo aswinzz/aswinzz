@@ -4,9 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-I am a passionate web developer from India. 🔭 I’m currently working as a Software Engineer at Telepart 🌱 I mostly work on Javascript projects, I love to create applications using React.
-
-* 🌍  I'm based in India
+* 🌍  I am a passionate web developer from India
 * 🖥️  See my portfolio at [My Portfolio](http://aswinvb.com)
 * ✉️  You can contact me at [aswinvb.aswin6@gmail.com](mailto:aswinvb.aswin6@gmail.com)
 * 🚀  I'm currently working on [Teleparty](http://teleparty.com)
