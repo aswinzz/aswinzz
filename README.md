@@ -13,8 +13,8 @@ I am a passionate web developer from India. 🔭 I’m currently working as a So
 * 🧠  I'm learning Core Javascript
 * 🤝  I'm open to collaborating on Interesting Projects
 
-<a href="https://www.x.com/aswin_vb" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/aswin_vb?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+<a href="https://www.x.com/aswinvb1" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/aswinvb1?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
 ### Skills
